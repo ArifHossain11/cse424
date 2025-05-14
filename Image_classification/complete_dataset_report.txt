@@ -1,0 +1,669 @@
+COMPLETE DATASET ANALYSIS REPORT
+===============================
+
+TRAIN DATASET
+--------------------
+
+CLASS: apple
+Number of files: 68
+File size range: 10.33KB to 7554.87KB (avg: 678.39KB)
+Resolution range: 250x249 to 4900x4965
+Sample files: Image_1.jpg, Image_10.jpg, Image_16.jpg
+
+CLASS: banana
+Number of files: 75
+File size range: 9.23KB to 8574.86KB (avg: 541.47KB)
+Resolution range: 200x243 to 7360x4912
+Sample files: Image_1.jpg, Image_100.jpg, Image_11.png
+
+CLASS: beetroot
+Number of files: 88
+File size range: 9.95KB to 7351.73KB (avg: 481.88KB)
+Resolution range: 225x179 to 3456x5184
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: bell pepper
+Number of files: 90
+File size range: 13.31KB to 6606.99KB (avg: 680.36KB)
+Resolution range: 220x147 to 5616x3744
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: cabbage
+Number of files: 92
+File size range: 16.44KB to 7111.78KB (avg: 584.22KB)
+Resolution range: 151x157 to 4288x3216
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: capsicum
+Number of files: 89
+File size range: 11.62KB to 3165.09KB (avg: 343.27KB)
+Resolution range: 200x300 to 4681x3100
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.JPG
+
+CLASS: carrot
+Number of files: 82
+File size range: 17.71KB to 9512.12KB (avg: 443.99KB)
+Resolution range: 256x256 to 3888x2592
+Sample files: Image_1.jpg, Image_10.jpeg, Image_100.jpg
+
+CLASS: cauliflower
+Number of files: 79
+File size range: 8.67KB to 4438.65KB (avg: 360.45KB)
+Resolution range: 172x189 to 4928x3264
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: chilli pepper
+Number of files: 87
+File size range: 17.53KB to 1994.75KB (avg: 226.01KB)
+Resolution range: 208x208 to 5262x3720
+Sample files: Image_1.jpg, Image_10.jpg, Image_11.jpg
+
+CLASS: corn
+Number of files: 87
+File size range: 15.34KB to 8351.49KB (avg: 768.0KB)
+Resolution range: 217x315 to 3445x5178
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: cucumber
+Number of files: 94
+File size range: 5.47KB to 6394.2KB (avg: 510.43KB)
+Resolution range: 360x224 to 6183x4126
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: eggplant
+Number of files: 84
+File size range: 12.53KB to 3556.79KB (avg: 504.93KB)
+Resolution range: 320x240 to 5184x3456
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: garlic
+Number of files: 92
+File size range: 24.41KB to 5534.17KB (avg: 477.93KB)
+Resolution range: 264x264 to 4752x3168
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: ginger
+Number of files: 68
+File size range: 6.86KB to 7767.82KB (avg: 479.66KB)
+Resolution range: 164x180 to 6000x4000
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: grapes
+Number of files: 100
+File size range: 16.65KB to 12641.51KB (avg: 843.25KB)
+Resolution range: 356x250 to 5760x3840
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpeg
+
+CLASS: jalepeno
+Number of files: 88
+File size range: 12.62KB to 6428.42KB (avg: 343.35KB)
+Resolution range: 133x200 to 4000x6000
+Sample files: Image_1.jpeg, Image_10.jpg, Image_100.jpg
+
+CLASS: kiwi
+Number of files: 88
+File size range: 18.0KB to 8337.94KB (avg: 508.09KB)
+Resolution range: 300x300 to 5616x3744
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: lemon
+Number of files: 82
+File size range: 10.92KB to 14094.98KB (avg: 768.35KB)
+Resolution range: 230x234 to 7360x4912
+Sample files: Image_1.png, Image_10.jpg, Image_100.png
+
+CLASS: lettuce
+Number of files: 97
+File size range: 17.49KB to 4935.91KB (avg: 649.91KB)
+Resolution range: 241x241 to 5184x3456
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpeg
+
+CLASS: mango
+Number of files: 86
+File size range: 26.37KB to 6402.49KB (avg: 431.24KB)
+Resolution range: 300x400 to 5184x3456
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: onion
+Number of files: 94
+File size range: 4.69KB to 8838.73KB (avg: 473.76KB)
+Resolution range: 240x240 to 6030x4020
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: orange
+Number of files: 69
+File size range: 15.75KB to 8401.09KB (avg: 826.41KB)
+Resolution range: 256x256 to 5456x3632
+Sample files: Image_1.png, Image_10.jpg, Image_100.jpg
+
+CLASS: paprika
+Number of files: 83
+File size range: 14.31KB to 4912.29KB (avg: 335.64KB)
+Resolution range: 220x293 to 4608x3456
+Sample files: Image_1.jpg, Image_10.jpeg, Image_100.jpg
+
+CLASS: pear
+Number of files: 89
+File size range: 4.67KB to 8093.51KB (avg: 475.29KB)
+Resolution range: 186x250 to 3920x5895
+Sample files: Image_1.jpg, Image_10.png, Image_100.jpg
+
+CLASS: peas
+Number of files: 100
+File size range: 18.75KB to 3642.45KB (avg: 627.61KB)
+Resolution range: 240x216 to 3456x5184
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: pineapple
+Number of files: 99
+File size range: 21.74KB to 8202.16KB (avg: 991.45KB)
+Resolution range: 240x320 to 4756x5945
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: pomegranate
+Number of files: 79
+File size range: 10.0KB to 5746.18KB (avg: 728.07KB)
+Resolution range: 256x192 to 4422x3038
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: potato
+Number of files: 77
+File size range: 12.71KB to 2636.75KB (avg: 363.33KB)
+Resolution range: 160x271 to 4000x3000
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: raddish
+Number of files: 81
+File size range: 7.84KB to 3170.11KB (avg: 220.08KB)
+Resolution range: 240x160 to 4048x2688
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: soy beans
+Number of files: 97
+File size range: 16.78KB to 2908.03KB (avg: 291.3KB)
+Resolution range: 250x188 to 5112x3648
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: spinach
+Number of files: 97
+File size range: 21.42KB to 4545.97KB (avg: 649.23KB)
+Resolution range: 300x390 to 4272x2848
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: sweetcorn
+Number of files: 91
+File size range: 12.49KB to 5470.88KB (avg: 394.0KB)
+Resolution range: 200x200 to 3872x2592
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: sweetpotato
+Number of files: 69
+File size range: 9.6KB to 5086.45KB (avg: 404.59KB)
+Resolution range: 300x199 to 4608x3072
+Sample files: Image_10.jpg, Image_100.jpg, Image_11.jpg
+
+CLASS: tomato
+Number of files: 92
+File size range: 18.07KB to 4178.88KB (avg: 510.25KB)
+Resolution range: 250x250 to 3872x2592
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: turnip
+Number of files: 98
+File size range: 6.23KB to 2678.25KB (avg: 297.28KB)
+Resolution range: 200x200 to 3529x2612
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+CLASS: watermelon
+Number of files: 84
+File size range: 11.28KB to 9417.9KB (avg: 695.96KB)
+Resolution range: 267x260 to 6238x6240
+Sample files: Image_1.jpg, Image_10.jpg, Image_100.jpg
+
+
+==================================================
+
+VALIDATION DATASET
+--------------------
+
+CLASS: apple
+Number of files: 10
+File size range: 22.62KB to 2569.77KB (avg: 773.08KB)
+Resolution range: 800x863 to 6228x4152
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: banana
+Number of files: 9
+File size range: 8.77KB to 220.54KB (avg: 67.5KB)
+Resolution range: 480x360 to 1200x1057
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: beetroot
+Number of files: 10
+File size range: 170.62KB to 2389.13KB (avg: 725.92KB)
+Resolution range: 768x1024 to 3264x2448
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: bell pepper
+Number of files: 9
+File size range: 67.06KB to 6606.99KB (avg: 2332.2KB)
+Resolution range: 800x800 to 5616x3744
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: cabbage
+Number of files: 10
+File size range: 94.08KB to 2275.43KB (avg: 725.05KB)
+Resolution range: 900x900 to 3888x2592
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: capsicum
+Number of files: 10
+File size range: 62.03KB to 2400.33KB (avg: 639.91KB)
+Resolution range: 1200x801 to 3607x2722
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: carrot
+Number of files: 9
+File size range: 57.14KB to 373.04KB (avg: 202.11KB)
+Resolution range: 1280x720 to 1920x1275
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: cauliflower
+Number of files: 10
+File size range: 89.76KB to 1883.77KB (avg: 452.54KB)
+Resolution range: 800x900 to 3276x3276
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: chilli pepper
+Number of files: 9
+File size range: 78.67KB to 1764.9KB (avg: 535.15KB)
+Resolution range: 800x800 to 3264x2448
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.png
+
+CLASS: corn
+Number of files: 10
+File size range: 138.47KB to 6602.03KB (avg: 1217.18KB)
+Resolution range: 1000x750 to 5016x3424
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: cucumber
+Number of files: 10
+File size range: 36.35KB to 2732.53KB (avg: 760.09KB)
+Resolution range: 850x611 to 4000x3000
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: eggplant
+Number of files: 10
+File size range: 94.39KB to 3270.73KB (avg: 1101.25KB)
+Resolution range: 1024x732 to 3216x4288
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: garlic
+Number of files: 10
+File size range: 101.74KB to 1237.22KB (avg: 387.16KB)
+Resolution range: 1200x800 to 3732x3085
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: ginger
+Number of files: 10
+File size range: 43.75KB to 7767.82KB (avg: 968.66KB)
+Resolution range: 849x565 to 6000x4000
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: grapes
+Number of files: 9
+File size range: 16.65KB to 453.59KB (avg: 270.19KB)
+Resolution range: 300x300 to 1600x1200
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: jalepeno
+Number of files: 9
+File size range: 68.69KB to 1146.98KB (avg: 325.88KB)
+Resolution range: 1084x720 to 3262x3262
+Sample files: Image_10.jpg, Image_2.jpg, Image_3.jpg
+
+CLASS: kiwi
+Number of files: 10
+File size range: 25.08KB to 807.69KB (avg: 247.94KB)
+Resolution range: 620x330 to 1920x1280
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: lemon
+Number of files: 10
+File size range: 56.64KB to 6301.84KB (avg: 1474.39KB)
+Resolution range: 700x544 to 2678x4027
+Sample files: Image_1.png, Image_10.jpg, Image_2.jpg
+
+CLASS: lettuce
+Number of files: 9
+File size range: 77.11KB to 2182.23KB (avg: 744.28KB)
+Resolution range: 1025x780 to 2448x3264
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: mango
+Number of files: 10
+File size range: 38.2KB to 2853.94KB (avg: 433.66KB)
+Resolution range: 558x600 to 5184x3456
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: onion
+Number of files: 10
+File size range: 37.59KB to 1638.96KB (avg: 410.84KB)
+Resolution range: 1000x667 to 2300x1533
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: orange
+Number of files: 9
+File size range: 70.55KB to 4311.9KB (avg: 1161.02KB)
+Resolution range: 1280x719 to 5456x3632
+Sample files: Image_1.png, Image_10.png, Image_2.jpg
+
+CLASS: paprika
+Number of files: 10
+File size range: 41.62KB to 1280.21KB (avg: 245.23KB)
+Resolution range: 849x564 to 2646x3909
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: pear
+Number of files: 10
+File size range: 16.79KB to 2314.76KB (avg: 393.64KB)
+Resolution range: 450x480 to 3750x2500
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: peas
+Number of files: 10
+File size range: 59.66KB to 3041.86KB (avg: 1273.58KB)
+Resolution range: 850x565 to 4200x2800
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: pineapple
+Number of files: 10
+File size range: 66.96KB to 7861.68KB (avg: 1240.12KB)
+Resolution range: 700x1050 to 4756x5945
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: pomegranate
+Number of files: 10
+File size range: 106.58KB to 1513.02KB (avg: 432.0KB)
+Resolution range: 1000x791 to 4422x3038
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: potato
+Number of files: 10
+File size range: 13.05KB to 164.32KB (avg: 80.6KB)
+Resolution range: 300x199 to 1200x809
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: raddish
+Number of files: 9
+File size range: 12.47KB to 243.61KB (avg: 143.56KB)
+Resolution range: 450x284 to 957x1300
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: soy beans
+Number of files: 10
+File size range: 43.68KB to 2383.85KB (avg: 402.5KB)
+Resolution range: 735x350 to 3264x2448
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: spinach
+Number of files: 10
+File size range: 105.73KB to 2625.08KB (avg: 950.91KB)
+Resolution range: 1200x628 to 3781x2531
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: sweetcorn
+Number of files: 10
+File size range: 49.76KB to 2263.59KB (avg: 458.33KB)
+Resolution range: 600x600 to 3504x2336
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: sweetpotato
+Number of files: 10
+File size range: 132.03KB to 1198.97KB (avg: 449.34KB)
+Resolution range: 1000x821 to 1709x2560
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: tomato
+Number of files: 10
+File size range: 100.83KB to 3755.83KB (avg: 692.66KB)
+Resolution range: 802x1200 to 3353x2384
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: turnip
+Number of files: 10
+File size range: 93.4KB to 431.17KB (avg: 206.69KB)
+Resolution range: 600x600 to 1300x1300
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: watermelon
+Number of files: 10
+File size range: 105.74KB to 4640.22KB (avg: 1097.79KB)
+Resolution range: 800x800 to 5114x4795
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+
+==================================================
+
+TEST DATASET
+--------------------
+
+CLASS: apple
+Number of files: 10
+File size range: 22.62KB to 2569.77KB (avg: 773.08KB)
+Resolution range: 800x863 to 6228x4152
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: banana
+Number of files: 9
+File size range: 8.77KB to 220.54KB (avg: 76.41KB)
+Resolution range: 480x360 to 1200x1057
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: beetroot
+Number of files: 10
+File size range: 170.62KB to 2389.13KB (avg: 725.92KB)
+Resolution range: 768x1024 to 3264x2448
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: bell pepper
+Number of files: 10
+File size range: 67.06KB to 6606.99KB (avg: 2106.53KB)
+Resolution range: 800x800 to 5616x3744
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: cabbage
+Number of files: 10
+File size range: 94.08KB to 2275.43KB (avg: 725.05KB)
+Resolution range: 900x900 to 3888x2592
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: capsicum
+Number of files: 10
+File size range: 62.03KB to 2400.33KB (avg: 639.91KB)
+Resolution range: 1200x801 to 3607x2722
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: carrot
+Number of files: 10
+File size range: 57.14KB to 373.04KB (avg: 189.96KB)
+Resolution range: 616x924 to 1920x1275
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: cauliflower
+Number of files: 10
+File size range: 89.76KB to 1883.77KB (avg: 452.54KB)
+Resolution range: 800x900 to 3276x3276
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: chilli pepper
+Number of files: 10
+File size range: 63.06KB to 1764.9KB (avg: 487.95KB)
+Resolution range: 800x800 to 3264x2448
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.png
+
+CLASS: corn
+Number of files: 10
+File size range: 138.47KB to 6602.03KB (avg: 1217.67KB)
+Resolution range: 1000x750 to 5016x3424
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: cucumber
+Number of files: 10
+File size range: 36.35KB to 2732.53KB (avg: 760.09KB)
+Resolution range: 850x611 to 4000x3000
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: eggplant
+Number of files: 10
+File size range: 94.39KB to 3270.73KB (avg: 1101.25KB)
+Resolution range: 1024x732 to 3216x4288
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: garlic
+Number of files: 10
+File size range: 101.74KB to 1237.22KB (avg: 387.16KB)
+Resolution range: 1200x800 to 3732x3085
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: ginger
+Number of files: 10
+File size range: 43.75KB to 7767.82KB (avg: 968.66KB)
+Resolution range: 849x565 to 6000x4000
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: grapes
+Number of files: 10
+File size range: 16.65KB to 453.59KB (avg: 256.64KB)
+Resolution range: 300x300 to 2000x1333
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: jalepeno
+Number of files: 10
+File size range: 65.93KB to 1146.98KB (avg: 299.89KB)
+Resolution range: 1050x700 to 3262x3262
+Sample files: Image_1.jpeg, Image_10.jpg, Image_2.jpg
+
+CLASS: kiwi
+Number of files: 10
+File size range: 25.08KB to 807.69KB (avg: 247.94KB)
+Resolution range: 620x330 to 1920x1280
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: lemon
+Number of files: 10
+File size range: 56.64KB to 6301.84KB (avg: 1474.39KB)
+Resolution range: 700x544 to 2678x4027
+Sample files: Image_1.png, Image_10.jpg, Image_2.jpg
+
+CLASS: lettuce
+Number of files: 10
+File size range: 77.11KB to 2182.23KB (avg: 721.23KB)
+Resolution range: 1025x780 to 2448x3264
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: mango
+Number of files: 10
+File size range: 38.2KB to 2853.94KB (avg: 433.66KB)
+Resolution range: 558x600 to 5184x3456
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: onion
+Number of files: 10
+File size range: 37.59KB to 1638.96KB (avg: 410.84KB)
+Resolution range: 1000x667 to 2300x1533
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: orange
+Number of files: 10
+File size range: 70.55KB to 5081.1KB (avg: 1553.03KB)
+Resolution range: 1280x719 to 5456x3632
+Sample files: Image_1.png, Image_10.png, Image_2.jpg
+
+CLASS: paprika
+Number of files: 10
+File size range: 41.62KB to 1280.21KB (avg: 245.23KB)
+Resolution range: 849x564 to 2646x3909
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: pear
+Number of files: 10
+File size range: 16.79KB to 2314.76KB (avg: 393.64KB)
+Resolution range: 450x480 to 3750x2500
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: peas
+Number of files: 10
+File size range: 59.66KB to 3041.86KB (avg: 1273.58KB)
+Resolution range: 850x565 to 4200x2800
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: pineapple
+Number of files: 10
+File size range: 66.96KB to 7861.68KB (avg: 1240.12KB)
+Resolution range: 700x1050 to 4756x5945
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: pomegranate
+Number of files: 10
+File size range: 106.58KB to 1513.02KB (avg: 432.0KB)
+Resolution range: 1000x791 to 4422x3038
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: potato
+Number of files: 10
+File size range: 13.05KB to 164.32KB (avg: 80.6KB)
+Resolution range: 300x199 to 1200x809
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: raddish
+Number of files: 10
+File size range: 12.47KB to 774.81KB (avg: 206.68KB)
+Resolution range: 450x284 to 1385x1793
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: soy beans
+Number of files: 10
+File size range: 43.68KB to 2383.85KB (avg: 402.5KB)
+Resolution range: 735x350 to 3264x2448
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: spinach
+Number of files: 10
+File size range: 105.73KB to 2625.08KB (avg: 950.91KB)
+Resolution range: 1200x628 to 3781x2531
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: sweetcorn
+Number of files: 10
+File size range: 49.76KB to 2263.59KB (avg: 458.33KB)
+Resolution range: 600x600 to 3504x2336
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: sweetpotato
+Number of files: 10
+File size range: 132.03KB to 1198.97KB (avg: 449.34KB)
+Resolution range: 1000x821 to 1709x2560
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: tomato
+Number of files: 10
+File size range: 100.83KB to 3755.83KB (avg: 692.66KB)
+Resolution range: 802x1200 to 3353x2384
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: turnip
+Number of files: 10
+File size range: 93.4KB to 431.17KB (avg: 206.69KB)
+Resolution range: 600x600 to 1300x1300
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+CLASS: watermelon
+Number of files: 10
+File size range: 105.74KB to 4640.22KB (avg: 1097.79KB)
+Resolution range: 800x800 to 5114x4795
+Sample files: Image_1.jpg, Image_10.jpg, Image_2.jpg
+
+
+==================================================
+
